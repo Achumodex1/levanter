@@ -18,7 +18,7 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "916282524936"
     },
     "PREFIX": {
       "description": "prefix, check for more",
@@ -28,7 +28,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "levanter_22d33bdf03b81e4ce79a44b4bb620e4448"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
@@ -101,7 +101,7 @@
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SEND_READ": {
       "description": "send blue tick",
